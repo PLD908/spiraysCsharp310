@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Overview
 
 As a software engineer, I am continuously improving my understanding of object-oriented programming concepts and file handling in C#. For this project, I developed a **Music Playlist Manager** — a console-based application that allows users to create and manage a playlist of songs, view and search songs by genre or artist, and save or load playlists from a file.
@@ -56,3 +57,6 @@ SPIRAYSC#/
 - Add **user authentication** and multiple playlists.  
 - Add **graphical interface (WPF or MAUI)** for better user experience.  
 
+=======
+# spiraysCsharp310
+>>>>>>> bcc967a557310b9efd498b0af1fd20995cef33b6
