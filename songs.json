@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "1",
+    "Artist": {
+      "Name": "Ed Sheeran",
+      "Country": "UK"
+    },
+    "Duration": 4.2,
+    "Title": "Shape of You",
+    "Genre": "Pop"
+  },
+  {
+    "Id": "2",
+    "Artist": {
+      "Name": "Adele",
+      "Country": "UK"
+    },
+    "Duration": 4.5,
+    "Title": "Hello",
+    "Genre": "Soul"
+  },
+  {
+    "Id": "2c57e710cd9341e98002b0192a2755ff",
+    "Artist": {
+      "Name": "The WEEkend",
+      "Country": "USA"
+    },
+    "Duration": 3.5,
+    "Title": "Die For You",
+    "Genre": "POP"
+  }
+]
